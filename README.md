@@ -4,9 +4,13 @@ Welcome to the Ansible Practice Repository! This repository is designed to help 
 Key Features:
 
 Sample Playbooks: Explore a variety of playbooks for common use cases, such as system configuration, application deployment, and more.
+
 Roles: Organize your playbooks using modular roles, making your automation projects scalable and maintainable.
+
 Scenarios: Test your skills with different scenarios, including multi-server setups, conditional tasks, and dynamic inventories.
+
 Best Practices: Follow Ansible best practices and conventions to write clean, efficient, and readable automation code.
+
 Documentation: Find detailed documentation and explanations for each playbook and role, making it easy for both beginners and experts to understand the automation logic.
 Getting Started:
 
